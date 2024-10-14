@@ -11,20 +11,20 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40">
   </div>
  
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="60">
   </div>
   
   <div>
