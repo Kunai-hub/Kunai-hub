@@ -13,6 +13,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40">
   </div>
  
   <div>
