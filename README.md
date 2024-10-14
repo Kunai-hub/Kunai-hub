@@ -49,8 +49,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact)
 ***
 <div id="os" align="center">
-  <img src="https://img.shields.io/badge/Linux-gray?logo=Linux&style=for-the-badge">
-  <img src="https://img.shields.io/badge/macos-gray?logo=macOS&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-708090?logo=Linux&style=for-the-badge">
+  <img src="https://img.shields.io/badge/macos-DCDCDC?logo=macOS&logoColor=black&style=for-the-badge">
 </div>
 
 <div id="net" align="center">
