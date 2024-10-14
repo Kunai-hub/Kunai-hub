@@ -42,7 +42,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     -->
   </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact)
   
 <div id="os" align="center">
   <img src="https://img.shields.io/badge/Linux-gray?logo=Linux&style=for-the-badge">
