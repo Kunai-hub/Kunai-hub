@@ -9,34 +9,54 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :hammer_and_pick: Languages and Tools:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40">
+  </div>
+ 
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55">
   </div>
+  
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40">
+    
+    <!--
+    <a href="https://github.com/Kunai-hub">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40">
+    </a>
+    <a href="https://gitlab.com/Kunai-lab">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40">
+    </a>
+    -->
   </div>
-<!--
+  
 <div id="os" align="center">
   <img src="https://img.shields.io/badge/Linux-gray?logo=Linux&style=for-the-badge">
-  <img src="https://img.shields.io/badge/macos-black?logo=macOS&style=for-the-badge">
+  <img src="https://img.shields.io/badge/macos-gray?logo=macOS&style=for-the-badge">
 </div>
-<div id="language" align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge">
-</div>
--->
 
+<div id="net" align="center">
+  <a href="https://t.me/kunai_tg">
+     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/Kunai-hub">
+    <img src="https://img.shields.io/badge/github-black?logo=github&style=for-the-badge">
+  </a>
+  <a href="https://gitlab.com/Kunai-lab">
+    <img src="https://img.shields.io/badge/gitlab-red?logo=gitlab&logoColor=white&style=for-the-badge">
+  </a>
+</div>
 <!--
 **Kunai-hub/Kunai-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
