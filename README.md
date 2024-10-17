@@ -14,6 +14,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40">
   </div>
+  
 ***
 - **Tools:**
   <div>
@@ -23,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40">
   </div> 
+  
 ***
 - **Frameworks and packages:**
   <div>
@@ -36,6 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="60">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40">
   </div>
+  
 ***
 - **IDE:**
   <div>
@@ -51,6 +54,7 @@
     </a>
     -->
   </div>
+  
 ***
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact">
