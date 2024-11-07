@@ -12,7 +12,41 @@
 - **Participant in main direction School 21 Sberbank**
 - **Interested in Python and C development**
 - **Love going to the gym**
+- **Contacts:**
+
+  <div>
+    <a href="https://t.me/kunai_tg">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="mailto:dniwebezdonnoe@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
+    </a>
+    <a href="mailto:natsuu1999@yandex.ru">
+      <img src="https://img.shields.io/badge/yandex-%23FF0000?style=for-the-badge">
+    </a>
+  </div>
+***
+- **Repositories:**
+
+  <div>
+    <a href="https://github.com/Kunai-hub">
+      <img src="https://img.shields.io/badge/github-black?logo=github&style=for-the-badge">
+    </a>
+    <a href="https://gitlab.com/Kunai-lab">
+      <img src="https://img.shields.io/badge/gitlab-red?logo=gitlab&logoColor=white&style=for-the-badge">
+    </a>
+  </div>
+***
+- **OS:**
+
+  <div id="os">
+    <img src="https://img.shields.io/badge/Linux-708090?logo=Linux&style=for-the-badge">
+    <img src="https://img.shields.io/badge/macos-DCDCDC?logo=macOS&logoColor=black&style=for-the-badge">
+</div>
+
+***
 - **Languages:**
+
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
@@ -22,6 +56,7 @@
   
 ***
 - **Tools:**
+
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40">
@@ -32,6 +67,7 @@
   
 ***
 - **Frameworks and packages:**
+
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40">
@@ -46,6 +82,7 @@
   
 ***
 - **IDE:**
+
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="40">
@@ -64,23 +101,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact&theme=tokyonight">
 </p>
-
-***
-<div id="os" align="center">
-  <img src="https://img.shields.io/badge/Linux-708090?logo=Linux&style=for-the-badge">
-  <img src="https://img.shields.io/badge/macos-DCDCDC?logo=macOS&logoColor=black&style=for-the-badge">
-</div>
-
-<div id="net" align="center">
-  <a href="https://t.me/kunai_tg">
-     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Kunai-hub">
-    <img src="https://img.shields.io/badge/github-black?logo=github&style=for-the-badge">
-  </a>
-  <a href="https://gitlab.com/Kunai-lab">
-    <img src="https://img.shields.io/badge/gitlab-red?logo=gitlab&logoColor=white&style=for-the-badge">
-  </a>
-</div>
 
 ***
