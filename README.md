@@ -8,10 +8,11 @@
 </div>
 
 ## :man_technologist: About Me :
-### Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+- **Web developer on Python (Django + DRF and FastAPI)**
+- **Love gym and bodybuilding**
+- **I have experience writing code in C and C++**
 - **Participant in main direction School 21 Sberbank**
-- **Interested in Python and C development**
-- **Love going to the gym**
 - **Contacts:**
 
   <div>
@@ -49,54 +50,48 @@
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40">
   </div>
-  
+
 ***
-- **Tools:**
+- **Frameworks and tools:**
 
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" width="40">
-  </div> 
-  
-***
-- **Frameworks and packages:**
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="50">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="45">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="50">
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50">
+  </div>
 
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="55">
+  </div>
+
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="60">
+  </div>
+
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="60">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40"> -->
   </div>
-  
-***
-- **IDE:**
 
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40">
-    <!--
-    <a href="https://github.com/Kunai-hub">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40">
-    </a>
-    <a href="https://gitlab.com/Kunai-lab">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="40">
-    </a>
-    -->
-  </div>
-  
 ***
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact&theme=tokyonight">
