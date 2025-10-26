@@ -64,24 +64,24 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="50">
 
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="45">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="40">
 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" width="45">
 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45">
   </div>
 
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="55">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" width="65">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="65">
   </div>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="50">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="60">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="65">
   </div>
 
     <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40">
