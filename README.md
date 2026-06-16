@@ -61,7 +61,7 @@
   </div>
 
 ***
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact&langs_count=10&theme=nightowl">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact&langs_count=10&theme=nightowl&card_width=400">
  
 - **Tools:**
 
