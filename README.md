@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunai-hub&layout=compact&langs_count=10&theme=nightowl">
 </p> -->
 
-<img align="right" src="https://private-user-images.githubusercontent.com/74038190/325895940-dad5d025-91c3-43b9-9a3d-1c9266f77cb7.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE2OTEyMDUsIm5iZiI6MTc4MTY5MDkwNSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NDAtZGFkNWQwMjUtOTFjMy00M2I5LTlhM2QtMWM5MjY2Zjc3Y2I3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjE3VDEwMDgyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBjMzk1NGVlOGMxNjRhN2M4M2FhZjlkZDIzNTgxNDc4MWRiYmE5NjgzNDRjYzBhZjBhMDc3MjRlMWMwMjNlZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NAA4mR0EI2olSniz4Idahx2BxcLjqGu0nYV-UtAQucg" width=450>
-
 ## :man_technologist: About Me :
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width=400>
+
 ### Python/Golang Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 - **Web developer on Python (Django + DRF and FastAPI)**
 - **Love gym and bodybuilding**
