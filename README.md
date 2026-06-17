@@ -23,6 +23,9 @@
 - **Contacts:**
 
   <div>
+    <a href="https://t.me/kunai_tg">
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+    </a>
     <a href="mailto:dniwebezdonnoe@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge">
     </a>
